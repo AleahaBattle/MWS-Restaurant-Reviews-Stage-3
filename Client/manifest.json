@@ -1,0 +1,33 @@
+{
+  "short_name": "ReviewsApp",
+  "name": "Restaurant Reviews App",
+  "start_url": "/",
+  "background_color": "#f3f3f3",
+  "display": "standalone",
+  "theme_color": "#f3f3f3",
+  "dir": "ltr",
+  "lang": "en-US",
+  "description": "MWS Restaurant Review App",
+  "icons": [
+    {
+      "src": "/img/icons-1.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/img/icons-2.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/img/icons-3.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/img/icons-4.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
