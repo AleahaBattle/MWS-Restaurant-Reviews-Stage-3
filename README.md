@@ -1,5 +1,9 @@
 # Mobile Web Specialist Certification Course
 ---
+<p align="center">
+	<img src="restaurants.png"></img>
+</p>
+---
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
 ## Project Overview: Stage 3
@@ -19,15 +23,15 @@ Let's start with running commands in your terminal, known as command line interf
 
 ###### Install project dependancies
 ```Install project dependancies
-# npm i
+npm i
 ```
 ###### Install Sails.js globally
 ```Install sails global
-# npm i sails -g
+npm i sails -g
 ```
 ###### Start the server
 ```Start server
-# node server
+node server
 ```
 ### You should now have access to your API server environment
 debug: Environment : development
