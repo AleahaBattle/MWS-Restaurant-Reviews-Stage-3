@@ -1,7 +1,7 @@
 # Mobile Web Specialist Certification Course
 ---
 <p align="center">
-	<img src="restaurants.png"></img>
+	<img src="Clients/img/restaurants.png"></img>
 </p>
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
